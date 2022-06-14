@@ -3,8 +3,8 @@ from instapy import InstaPy
 from instapy import smart_run
 
 # login credentials
-insta_username = 'littlebigarchitecture'
-insta_password = 'Democritus01'
+insta_username = ''
+insta_password = ''
 
 comments = [
         'Nice shot! @{}',
